@@ -1,0 +1,17 @@
+BEST MODEL
+model: Random Forest
+
+HYPERPARAMETERS
+bootstrap = False
+max_depth = 19
+min_samples_leaf = 2
+min_samples_split = 6
+n_estimators = 209
+n_features = 17
+
+PERFORMANCE
+Accuracy = 0.935
+Precision = 0.970
+Recall = 0.732
+F1 Score = 0.835
+ROC-AUC = 0.938
